@@ -106,7 +106,7 @@ const authorization = await walletClient.prepareAuthorization({
 
 ### chainId (optional)
 
-- **Type:** `Address`
+- **Type:** `Address` 
 - **Default:** `client.chain.id` or Network chain ID
 
 The Chain ID to scope the Authorization to. If set to zero (`0`), then the Authorization will
@@ -160,7 +160,7 @@ const authorization = await walletClient.prepareAuthorization({
 
 ### nonce (optional)
 
-- **Type:** `Address`
+- **Type:** `Address` 
 - **Default:** Account's next available nonce.
 
 The nonce to scope the Authorization to.

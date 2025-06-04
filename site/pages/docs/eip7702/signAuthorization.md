@@ -131,7 +131,7 @@ const authorization = await walletClient.signAuthorization({
 
 ### chainId (optional)
 
-- **Type:** `Address`
+- **Type:** `Address` 
 - **Default:** `client.chain.id` or Network chain ID
 
 The Chain ID to scope the Authorization to.
@@ -184,7 +184,7 @@ const authorization = await walletClient.signAuthorization({
 
 ### nonce (optional)
 
-- **Type:** `Address`
+- **Type:** `Address` 
 - **Default:** Account's next available nonce.
 
 The nonce to scope the Authorization to.

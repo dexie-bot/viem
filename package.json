@@ -1,7 +1,7 @@
 {
   "private": true,
   "type": "module",
-  "version": "1.4.6",
+  "version": "1.4.7",
   "scripts": {
     "bench": "vitest bench",
     "bench:types": "TYPES=true vitest -c ./test/vitest.config.ts bench-d.ts",

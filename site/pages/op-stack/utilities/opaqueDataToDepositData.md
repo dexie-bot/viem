@@ -4,7 +4,7 @@ description: Converts opaque data into a structured deposit data format.
 
 # opaqueDataToDepositData
 
-Converts an opaque data into a structured deposit data object. This includes extracting and converting the `mint`, `value`, `gas`, `isCreation` flag, and `data` from a hex string.
+Converts opaque data into a structured deposit data object. This includes extracting and converting the `mint`, `value`, `gas`, `isCreation` flag, and `data` from a hex string.
 
 ## Import
 

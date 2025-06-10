@@ -37,4 +37,4 @@ The hashed ENS label.
 
 - **Type:** `string`
 
-A ENS label.
+An ENS label.

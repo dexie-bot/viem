@@ -1,5 +1,5 @@
 ---
-description: Checks if the given addresses (checksummed) are equal.
+description: Checks whether or not the given addresses (checksummed) are equal.
 ---
 
 # isAddressEqual

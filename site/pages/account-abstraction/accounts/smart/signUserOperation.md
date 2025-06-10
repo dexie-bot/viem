@@ -89,7 +89,7 @@ const signature = await account.signUserOperation({
 
 - **Type:** `bigint`
 
-The amount of gas to allocate the main execution call.
+The amount of gas to allocate to the main execution call.
 
 ```ts twoslash
 import { toCoinbaseSmartAccount } from 'viem/account-abstraction'

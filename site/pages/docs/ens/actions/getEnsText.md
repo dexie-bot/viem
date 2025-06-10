@@ -1,5 +1,5 @@
 ---
-description: Gets a text record for specified ENS name.
+description: Gets a text record for the specified ENS name.
 ---
 
 # getEnsText

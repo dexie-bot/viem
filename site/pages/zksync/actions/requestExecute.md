@@ -234,7 +234,7 @@ const hash = await walletClient.requestExecute({
 - **Type:** `bigint`
 
 The tip the operator will receive on top of the base cost of the transaction. 
-Currently, ZKsync node do not consider this tip.
+Currently, ZKsync nodes do not consider this tip.
 
 ```ts
 const hash = await walletClient.requestExecute({

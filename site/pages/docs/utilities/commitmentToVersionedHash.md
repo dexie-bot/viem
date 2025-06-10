@@ -4,7 +4,7 @@ description: Transform a commitment to its versioned hash.
 
 # commitmentToVersionedHash
 
-Transform a commitment to it's versioned hash.
+Transform a commitment to its versioned hash.
 
 ## Import
 

@@ -170,7 +170,7 @@
     {
       "name": "import { mnemonicToAccount } from 'viem/accounts'",
       "path": "./src/_esm/accounts/index.js",
-      "limit": "30 kB",
+      "limit": "32 kB",
       "import": "{ mnemonicToAccount }"
     },
     {

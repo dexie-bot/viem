@@ -25,7 +25,7 @@ const client = createPublicClient({
 
 ### Transport Ranking
 
-Transport Ranking enables each of the Transports passed to the `fallback` Transport are automatically ranked based on their **latency** & **stability** via a weighted moving score algorithm. 
+Transport Ranking enables each of the Transports passed to the `fallback` Transport to be automatically ranked based on their **latency** & **stability** via a weighted moving score algorithm. 
 
 Every 10 seconds (`interval`), the `fallback` Transport will ping each transport in the list. For the past 10 pings (`sampleCount`), they will be ranked based on if they responded (stability) and how fast they responded (latency). The algorithm applies a weight of `0.7` to the stability score, and a weight of `0.3` to the latency score to derive the final score which it is ranked on. 
 

@@ -1,5 +1,5 @@
 ---
-description: Returns the L1 token address equivalent for a L2 token address as they are not equal.
+description: Returns the L1 token address equivalent for an L2 token address as they are not equal.
 ---
 
 # getL1TokenAddress

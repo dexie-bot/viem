@@ -44,7 +44,7 @@ Since ENS names prohibit certain forbidden characters (e.g. underscore) and have
 
 `string | null`
 
-The text record for ENS name.
+The text record for the ENS name.
 
 Returns `null` if name does not have text assigned.
 

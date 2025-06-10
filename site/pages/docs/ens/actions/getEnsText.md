@@ -4,7 +4,7 @@ description: Gets a text record for the specified ENS name.
 
 # getEnsText
 
-Gets a text record for specified ENS name.
+Gets a text record for the specified ENS name.
 
 Calls `resolve(bytes, bytes)` on ENS Universal Resolver Contract.
 

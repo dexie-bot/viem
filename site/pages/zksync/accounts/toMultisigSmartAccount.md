@@ -4,7 +4,7 @@ description: Creates a multi-signature ZKsync Smart Account
 
 # toMultisigSmartAccount (ZKsync)
 
-Creates a multi-signature [ZKsync Smart Account](https://docs.zksync.io/build/developer-reference/account-abstraction/building-smart-accounts) from a Contract Address and the Private Key of the owner.
+Creates a multi-signature [ZKsync Smart Account](https://docs.zksync.io/build/developer-reference/account-abstraction/building-smart-accounts) from a Contract Address and the Private Keys of the owners.
 
 ## Usage
 

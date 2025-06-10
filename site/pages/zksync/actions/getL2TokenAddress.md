@@ -59,7 +59,7 @@ const address = await client.getL2TokenAddress({
 
 - **Type:** `Address`
 
-The address of custom bridge, which will be used to get l2 token address.
+The address of a custom bridge, which will be used to get the L2 token address.
 
 ```ts
 const address = await client.getL2TokenAddress({

@@ -1,5 +1,5 @@
 ---
-description: Gets the wallets current permissions.
+description: Gets the wallet's current permissions.
 ---
 
 # getPermissions

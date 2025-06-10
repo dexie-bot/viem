@@ -45,4 +45,4 @@ await testClient.setNextBlockTimestamp({
 
 ## Notes
 
-- The next Block `timestamp` cannot be lesser than the current Block `timestamp`.
+- The next block `timestamp` cannot be less than the current block `timestamp`.

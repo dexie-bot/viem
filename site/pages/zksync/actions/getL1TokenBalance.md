@@ -66,7 +66,7 @@ const balance = await publicClient.getL1TokenBalance({
 
 - **Type:** `BlockTag | undefined`
 
-In which block an balance should be checked on. The latest processed one is the default option.
+In which block a balance should be checked. The latest processed one is the default option.
 
 ```ts
 const balance = await publicClient.getL1TokenBalance({

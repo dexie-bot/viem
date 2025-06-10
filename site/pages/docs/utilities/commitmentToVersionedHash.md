@@ -1,5 +1,5 @@
 ---
-description: Transform a commitment to it's versioned hash.
+description: Transform a commitment to its versioned hash.
 ---
 
 # commitmentToVersionedHash

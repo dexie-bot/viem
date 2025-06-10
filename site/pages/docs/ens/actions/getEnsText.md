@@ -46,7 +46,7 @@ Since ENS names prohibit certain forbidden characters (e.g. underscore) and have
 
 The text record for the ENS name.
 
-Returns `null` if name does not have text assigned.
+Returns `null` if the name does not have text assigned.
 
 ## Parameters
 
